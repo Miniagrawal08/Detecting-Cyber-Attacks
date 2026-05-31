@@ -83,25 +83,24 @@ The project includes detailed exploratory data analysis to understand network be
 
 ### Key Analyses Performed
 
-✔ Data Inspection
+Data Inspection
 
-✔ Missing Value Analysis
+Missing Value Analysis
 
-✔ Statistical Summary
+Statistical Summary
 
-✔ Feature Type Analysis
+Feature Type Analysis
 
-✔ Class Distribution Analysis
+Class Distribution Analysis
 
-✔ Attack Category Distribution
+Attack Category Distribution
+Protocol Distribution
 
-✔ Protocol Distribution
+Duration Analysis
 
-✔ Duration Analysis
+Source and Destination Byte Analysis
 
-✔ Source and Destination Byte Analysis
-
-✔ Network Traffic Pattern Visualization
+Network Traffic Pattern Visualization
 
 ---
 
@@ -237,16 +236,16 @@ Aspiring Data Analyst | Machine Learning Practitioner
 
 ##  Repository Highlights
 
-✔ End-to-End Cybersecurity Analytics Project
+End-to-End Cybersecurity Analytics Project
 
-✔ Real-World UNSW-NB15 Dataset
+Real-World UNSW-NB15 Dataset
 
-✔ Advanced Data Visualization
+Advanced Data Visualization
 
-✔ Machine Learning-Based Intrusion Detection
+Machine Learning-Based Intrusion Detection
 
-✔ Model Comparison and Optimization
+Model Comparison and Optimization
 
-✔ Cyber Threat Detection Framework
+Cyber Threat Detection Framework
 
 If you found this project useful, consider giving the repository a ⭐ and sharing your feedback.
